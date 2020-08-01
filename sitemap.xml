@@ -2,14 +2,14 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://example.org/categories/</loc><lastmod>2020-07-09T15:02:37&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/posts/</loc><lastmod>2020-07-09T15:02:37&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/categories/python/</loc><lastmod>2020-07-09T15:02:37&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/tags/</loc><lastmod>2020-07-09T15:02:37&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/posts/xpath/</loc><lastmod>2020-07-09T15:02:37&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/tags/xpath.-python/</loc><lastmod>2020-07-09T15:02:37&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/</loc><lastmod>2020-07-09T15:02:37&#43;08:00</lastmod></url><url>
-            <loc>http://example.org/about/</loc></url><url>
-            <loc>http://example.org/categories/mysql/</loc></url><url>
-            <loc>http://example.org/tags/mysql.-%E6%95%B0%E6%8D%AE%E5%BA%93/</loc></url><url>
-            <loc>http://example.org/posts/mysql%E5%89%8D%E8%A8%80%E4%B8%8E%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</loc></url></urlset>
+            <loc>https://lyyzo.gitee.io/categories/</loc><lastmod>2020-07-30T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://lyyzo.gitee.io/categories/mysql/</loc><lastmod>2020-07-30T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://lyyzo.gitee.io/tags/mysql.-%E6%95%B0%E6%8D%AE%E5%BA%93/</loc><lastmod>2020-07-30T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://lyyzo.gitee.io/mysql%E5%89%8D%E8%A8%80%E4%B8%8E%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</loc><lastmod>2020-07-30T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://lyyzo.gitee.io/posts/</loc><lastmod>2020-07-30T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://lyyzo.gitee.io/tags/</loc><lastmod>2020-07-30T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://lyyzo.gitee.io/</loc><lastmod>2020-07-30T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://lyyzo.gitee.io/categories/python/</loc><lastmod>2020-07-09T15:02:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
+            <loc>https://lyyzo.gitee.io/xpath/</loc><lastmod>2020-07-09T15:02:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
+            <loc>https://lyyzo.gitee.io/tags/xpath.-python/</loc><lastmod>2020-07-09T15:02:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
+            <loc>https://lyyzo.gitee.io/about/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

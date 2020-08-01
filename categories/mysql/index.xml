@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>MySQL - 分类 - 昭昭的博客</title>
-        <link>http://example.org/categories/mysql/</link>
+        <link>https://lyyzo.gitee.io/categories/mysql/</link>
         <description>MySQL - 分类 - 昭昭的博客</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="http://example.org/categories/mysql/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 30 Jul 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://lyyzo.gitee.io/categories/mysql/" rel="self" type="application/rss+xml" /><item>
     <title>MySQL前言与基本概念</title>
-    <link>http://example.org/posts/mysql%E5%89%8D%E8%A8%80%E4%B8%8E%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</link>
-    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <link>https://lyyzo.gitee.io/mysql%E5%89%8D%E8%A8%80%E4%B8%8E%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</link>
+    <pubDate>Thu, 30 Jul 2020 00:00:00 &#43;0000</pubDate>
     <author>作者</author>
-    <guid>http://example.org/posts/mysql%E5%89%8D%E8%A8%80%E4%B8%8E%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</guid>
+    <guid>https://lyyzo.gitee.io/mysql%E5%89%8D%E8%A8%80%E4%B8%8E%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</guid>
     <description><![CDATA[MySQL数据库程序设计 前言 MySQL是一个关系型数据库管理系统，由瑞典MySQL AB 公司开发，属于 Oracle 旗下产品。MySQL 是最流行的关系型数据]]></description>
 </item></channel>
 </rss>
