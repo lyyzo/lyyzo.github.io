@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>xpath. python - 标签 - 昭昭的博客</title>
+        <link>https://lyyzo.github.io/tags/xpath.-python/</link>
+        <description>xpath. python - 标签 - 昭昭的博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 09 Jul 2020 15:02:37 &#43;0800</lastBuildDate><atom:link href="https://lyyzo.github.io/tags/xpath.-python/" rel="self" type="application/rss+xml" /><item>
+    <title>XPath</title>
+    <link>https://lyyzo.github.io/posts/xpath/</link>
+    <pubDate>Thu, 09 Jul 2020 15:02:37 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://lyyzo.github.io/posts/xpath/</guid>
+    <description><![CDATA[一、XPath XPath是XML路径语言，用来确定HTML/XML文档中某部分位置的语言。 XPath包含一个标准函数库 Xpath是 XSLT 中的主要]]></description>
+</item></channel>
+</rss>
